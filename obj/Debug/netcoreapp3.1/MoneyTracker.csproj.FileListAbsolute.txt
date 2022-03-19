@@ -1,0 +1,16 @@
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.exe
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.deps.json
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.runtimeconfig.json
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.runtimeconfig.dev.json
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.dll
+C:\Coding\Projects\MoneyTracker\bin\Debug\netcoreapp3.1\MoneyTracker.pdb
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.csprojAssemblyReference.cache
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.Form1.resources
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.csproj.GenerateResource.cache
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.AssemblyInfoInputs.cache
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.AssemblyInfo.cs
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.csproj.CoreCompileInputs.cache
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.dll
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.pdb
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.genruntimeconfig.cache
+C:\Coding\Projects\MoneyTracker\obj\Debug\netcoreapp3.1\MoneyTracker.Form2.resources
